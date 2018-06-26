@@ -82,3 +82,23 @@ h1 {
 .navbar-toggler-icon {
     overflow: visible;
 }
+
+article{
+    font-family: 'Arial', sans-serif;
+}
+
+.art1 h3{
+    font-size: 0.9em;
+    font-weight: bold;
+}
+.art1 h2{
+    font-size: 1.4em;
+}
+
+.art1 p{
+    font-size: 0.9em;
+}
+
+.art2 img{
+    float: left;
+}
