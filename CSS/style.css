@@ -70,20 +70,24 @@ h1 {
     overflow: visible;
 }
 
+.main_article{
+    padding: 3%;
+}
 article{
     font-family: 'Arial', sans-serif;
 }
 
 .art1 h3{
-    font-size: 0.9em;
+    font-size: 0.8em;
     font-weight: bold;
+    line-height: 1.8;
 }
 .art1 h2{
     font-size: 1.4em;
 }
 
 .art1 p{
-    font-size: 0.9em;
+    font-size: 0.8em;
 }
 
 .art2 h2{
@@ -114,6 +118,7 @@ article{
 
 .sub_article {
     justify-content: space-between;
+    padding: 4%;
 }
 
 .art3 h2{
@@ -147,7 +152,6 @@ article{
     border-left: none;
     border-right: none;
     padding: 2% 2% 0;
-    margin-left: 10%;
 
 }
 
@@ -157,14 +161,16 @@ article{
     margin-bottom: 2em;
 
 }
-
+.sidebar {
+    padding: 4%;
+}
 .side p{
     font-size: 0.8em;
     margin: 1.5em 0;
 }
 
 .side_2{
-    margin-left: 2em;
+
 }
 
 .side_2 h3{
@@ -179,4 +185,8 @@ article{
     list-style-type: circle;
     font-size: 0.8em;
     line-height: 2.5;
+}
+
+.main {
+    background-image: url("https://raw.githubusercontent.com/codincamp/challenge_6/master/images/fond.png");
 }
