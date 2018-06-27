@@ -196,3 +196,31 @@ article{
 .main {
     background-image: url("https://raw.githubusercontent.com/codincamp/challenge_6/master/images/fond.png");
 }
+
+.footer{
+    background-image: url("https://raw.githubusercontent.com/codincamp/challenge_6/master/images/fond-article.png");
+    padding-left: 4%;
+
+}
+
+.footer h2{
+    font-size: 1.5em;
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    margin: 10% 0;
+}
+
+.footer h3{
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    font-size: 0.8em;
+    font-weight: bold;
+}
+
+.footer p{
+    font-size: 0.8em;
+}
+
+.mosaique img{
+margin: 5% 0;
+}
