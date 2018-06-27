@@ -161,22 +161,28 @@ article{
     margin-bottom: 2em;
 
 }
-.sidebar {
+.sidebar1 {
     padding: 4%;
+}
+
+.sidebar {
+    padding: 5%;
+}
+
+.sidebar h3{
+    margin: 0;
+}
+.sidebar ul {
+    padding: 0.5rem;
 }
 .side p{
     font-size: 0.8em;
     margin: 1.5em 0;
 }
 
-.side_2{
-
-}
-
 .side_2 h3{
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
-    margin-left: 1em;
 
 
 }
@@ -184,7 +190,7 @@ article{
 .side_2 li{
     list-style-type: circle;
     font-size: 0.8em;
-    line-height: 2.5;
+    line-height: 2;
 }
 
 .main {
