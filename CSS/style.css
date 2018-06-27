@@ -18,11 +18,6 @@
 .article {
     background-color: pink;
 }
-
-.sub_article {
-    background-color: purple;
-}
-
 .main_article {
     background-color: #eeeeee;
 }
@@ -99,6 +94,28 @@ article{
     font-size: 0.9em;
 }
 
-.art2 img{
-    float: left;
+.art2 h2{
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.art2 p {
+    font-size: 0.8em;
+}
+
+.art2 {
+    margin: 10% 0;
+    background-image: url("https://raw.githubusercontent.com/codincamp/challenge_6/master/images/fond-article.png");
+    padding: 2% 2%;
+}
+
+.art2 img {
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+
+.sub_article {
+    justify-content: space-evenly;
 }
